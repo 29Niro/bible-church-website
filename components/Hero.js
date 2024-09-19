@@ -7,10 +7,11 @@ import 'aos/dist/aos.css';
 export default function Hero() {
   const [currentImage, setCurrentImage] = useState(0);
   const images = [
-    '/assets/church-1.jpg',
-    '/assets/hand.jpg',
-    '/assets/church-2.jpg',
-    '/assets/bible.jpg',
+    'https://res.cloudinary.com/dregpcfhh/image/upload/v1726721108/bible-church-website/church-1.jpg',
+    'https://res.cloudinary.com/dregpcfhh/image/upload/v1726721108/bible-church-website/bible.jpg',
+    'https://res.cloudinary.com/dregpcfhh/image/upload/v1726721108/bible-church-website/church-2.jpg',
+    'https://res.cloudinary.com/dregpcfhh/image/upload/v1726721108/bible-church-website/hand.jpg',
+    
   ];
 
   useEffect(() => {

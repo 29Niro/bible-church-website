@@ -36,7 +36,7 @@ export default function About() {
         {/* Image */}
         <div className="md:w-1/2" data-aos="fade-left">
           <Image
-            src="/assets/bible.jpg"
+            src="https://res.cloudinary.com/dregpcfhh/image/upload/v1726721108/bible-church-website/bible.jpg"
             alt="Bible Study"
             width={800}
             height={600}
