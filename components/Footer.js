@@ -11,12 +11,12 @@ export default function Footer() {
         <p className="text-sm mb-2">123 Church Road, City Name, Country</p>
         <p className="text-sm mb-2">
           <a href="mailto:contact@biblecollegechurch.com" className="underline">
-            contact@biblecollegechurch.com
+            29niro@gmail.com
           </a>
         </p>
         <p className="text-sm">
-          <a href="tel:+1234567890" className="underline">
-            +123 456 7890
+          <a href="tel:+94775139934" className="underline">
+            +94 775139934
           </a>
         </p>
       </div>
